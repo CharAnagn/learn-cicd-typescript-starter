@@ -1,4 +1,4 @@
-![dynamic badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![dynamic badge](https://github.com/charanagn/learn-cicd-typesript-starter/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
