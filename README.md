@@ -1,4 +1,6 @@
-![dynamic badge](https://github.com/charanagn/learn-cicd-typesript-starter/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
+![dynamic badge](https://github.com/CharAnagn/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+
 
 # learn-cicd-typescript-starter (Notely)
 
